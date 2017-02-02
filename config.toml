@@ -1,3 +1,16 @@
-baseurl = "http://johnkozna.ca
+baseurl = "http://johnkozan.ca"
 title = "John Kozan, CPA, CA"
 languageCode = "en-us"
+publishDir = "docs"
+
+[params]
+  GithubID = "johnkozan"
+  TwitterID = "jkozan"
+  LinkedInID = "johnkozan"
+  MediumID = "johnkozan"
+  Name = "John Kozan"
+  SubName = "CPA, CA"
+  LegalName = "JKCAPC"
+  Email = "john@kozan.sk.ca"
+  About = "Specializing in Blockchain technologies"
+  GoogleAnalytics = "UA-8130553-1"
